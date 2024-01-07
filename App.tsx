@@ -11,7 +11,7 @@ function App(){
   <SafeAreaView>
   <View>
     <Text>
-    hello world!
+    hello world!.
     </Text>
   </View>
   </SafeAreaView>
